@@ -6,6 +6,14 @@ Shreshtha Mukherjee, 2022HS70012
 Shilpi Nandani, 2022HS70035
 Ritabrata Das, 2022HS70034
 
+| Team Members    | BITS Roll Number |
+| --------------- | ---------------- |
+| Jasmita Chandran  | 2022HS70054      |
+| Manish Kumar       | 2022HS70028      |
+| Shreshtha Mukherjee   | 2022HS70012      |
+|Shilpi Nandani    | 2022HS70035      |
+| Ritabrata Das     | 2022HS70034      | 
+
 
 
 # PPE Kit Detection (Offline Flutter App)
