@@ -19,7 +19,7 @@ Ritabrata Das, 2022HS70034
 # PPE Kit Detection (Offline Flutter App)
 
 **PPE Kit Detection** is a fully offline Flutter mobile application designed to enhance workplace safety by detecting Personal Protective Equipment (PPE) compliance using AI/ML technologies.  
-Users can upload or capture photos, and the app analyzes the images to determine whether the person is wearing essential safety gear such as a **helmet**, **gloves**, and **jacket**.
+Users can upload or capture photos, and the app analyzes the images to determine whether the person is wearing essential safety gear such as a **Person**,**helmet**, **gloves**, and **jacket**.
 
 ---
 
